@@ -1,0 +1,12 @@
+
+build:
+  version: "v4.1"
+
+contact:
+  message: "Bank System - Cards API "
+  details:
+    name: "Santiago Tabares - developer"
+    email: "santaigoCARDS@gmail.com"
+    phone-numbers:
+      - "(57) 333-546-3433"
+      - "(57) 305-354-5444"
