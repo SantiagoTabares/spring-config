@@ -1,0 +1,12 @@
+
+build:
+  version: "v2.0"
+
+contact:
+  message: "Bank System - Accounts API "
+  details:
+    name: "Santiago Morales QA  - DevOps"
+    email: "santaigoQA@gmail.com"
+    phone-numbers:
+      - "(57) 333-546-3433"
+      - "(57) 305-354-5444"
