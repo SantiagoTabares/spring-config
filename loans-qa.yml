@@ -1,0 +1,12 @@
+
+build:
+  version: "v1.3"
+
+contact:
+  message: "Bank System - Loans QA API "
+  details:
+    name: "Santiago Tabares - devOps"
+    email: "santaigoLoans@gmail.com"
+    phone-numbers:
+      - "(57) 333-586-3433"
+      - "(57) 305-354-5444"

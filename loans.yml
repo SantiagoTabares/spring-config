@@ -1,0 +1,12 @@
+
+build:
+  version: "v1.3"
+
+contact:
+  message: "Bank System - Loans API "
+  details:
+    name: "Santiago Tabares - developer"
+    email: "santaigoLoans@gmail.com"
+    phone-numbers:
+      - "(57) 333-586-3433"
+      - "(57) 305-354-5444"
