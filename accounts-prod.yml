@@ -2,9 +2,9 @@ build:
   version: "v1.0"
 
 contact:
-  message: "Bank System - Accounts API "
+  message: "Sistema Bancario - Accounts API "
   details:
-    name: "Santiago Tabares Prod - Product Owner / dev"
+    name: "Santiago Tabares Produccion - Product Owner "
     email: "santaigo@gmail.com"
     phone-numbers:
       - "(57) 333-546-3433"
